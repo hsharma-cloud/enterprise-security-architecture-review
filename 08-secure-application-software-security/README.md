@@ -4,6 +4,10 @@ Secure Application & Software Security focuses on integrating security throughou
 
 This capability encompasses secure software development, application security testing, secure coding practices, DevSecOps, software assurance, and software supply chain security.
 
+## Capability Reference Map
+
+![Secure Application & Software Security](../images/secure-application-software-security-reference.png)
+
 ---
 
 # Why This Capability Matters

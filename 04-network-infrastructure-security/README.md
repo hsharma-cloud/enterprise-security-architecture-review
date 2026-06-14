@@ -3,6 +3,9 @@
 Network & Infrastructure Security focuses on protecting the systems, networks, communications channels, and supporting infrastructure that enable modern business operations. It establishes secure connectivity, controls traffic flows, enforces trust boundaries, and provides visibility across enterprise environments.
 
 This capability encompasses network architecture, segmentation, secure communications, cloud networking, wireless security, infrastructure protection, and network monitoring.
+## Capability Reference Map
+
+![Network & Infrastructure Security](../images/network-infrastructure-security-reference.png)
 
 ---
 

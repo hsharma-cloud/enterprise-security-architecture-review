@@ -4,9 +4,14 @@ Security Architecture & Engineering focuses on designing, implementing, and main
 
 This domain encompasses secure design principles, security models, cryptography, system security capabilities, architecture risk assessment, physical security, and system lifecycle management.
 
+## Capability Reference Map
+
+![Security Architecture & Engineering](../images/security-architecture-engineering-reference.png)
+
+
 ---
 
-# Why This Domain Matters
+# Why This Capability Matters
 
 Security architecture provides the blueprint for protecting organizational assets.
 
@@ -38,7 +43,7 @@ Operations
 
 ---
 
-# Domain Coverage
+# Capability Coverage
 
 This domain includes the following major areas:
 

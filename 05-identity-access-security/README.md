@@ -3,6 +3,9 @@
 Identity & Access Security focuses on establishing, verifying, managing, and governing digital identities while ensuring appropriate access to information, systems, applications, services, and infrastructure.
 
 This capability encompasses identity management, authentication, authorization, federation, privileged access, access governance, and identity lifecycle management.
+## Capability Reference Map
+
+![Identity & Access Security](../images/identity-access-security-reference.png)
 
 ---
 

@@ -3,6 +3,9 @@
 Security Operations & Resilience focuses on the continuous protection, monitoring, detection, response, recovery, and improvement of enterprise security capabilities. It ensures organizations can identify threats, respond to incidents, maintain operational continuity, and recover from disruptions.
 
 This capability encompasses security monitoring, incident response, digital forensics, vulnerability management, disaster recovery, business continuity, physical security, and operational resilience.
+## Capability Reference Map
+
+![Security Operations & Resilience](../images/security-operations-resilience-reference.png)
 
 ---
 

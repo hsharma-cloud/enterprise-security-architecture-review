@@ -29,9 +29,6 @@ The content is organized around security capabilities that support the design, i
 
 ---
 
-
----
-
 ## Purpose
 
 The goal of this project is to provide a structured enterprise security architecture reference for security professionals, engineers, architects, and technology leaders.

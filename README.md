@@ -5,7 +5,7 @@ A comprehensive security architecture reference covering governance, risk manage
 
 ![Enterprise Security Architecture](images/master-security-architecture-map.png)
 
-## Security Domains
+## Security Capabilities
 
 | Domain                                                                             | Description                                                                                                      |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ This repository is organized into eight core security domains and is designed to
 
 ---
 
-## Overview
+## Repository Overview
 
 Enterprise security is built upon interconnected domains that collectively support confidentiality, integrity, availability, resilience, compliance, and risk management.
 

@@ -4,9 +4,13 @@ Information and Asset Protection focuses on identifying, classifying, handling, 
 
 This domain establishes the controls and governance necessary to ensure that information assets remain protected, properly managed, and aligned with business, legal, regulatory, and operational requirements.
 
+## Capability Reference Map
+
+![Information & Asset Protection](../images/information-asset-protection-reference.png)
+
 ---
 
-# Why This Domain Matters
+# Why This Capability Matters
 
 Information is one of the most valuable assets within an organization.
 

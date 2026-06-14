@@ -46,6 +46,25 @@ The content is organized to emphasize:
 
 ---
 
+## Repository Structure
+
+```text
+enterprise-security-architecture-review/
+
+├── Governance, Risk & Compliance
+├── Information & Asset Protection
+├── Security Architecture & Engineering
+├── Network & Infrastructure Security
+├── Identity & Access Security
+├── Security Assessment & Validation
+├── Security Operations & Resilience
+├── Secure Application & Software Security
+│
+├── Security Architecture Patterns
+├── Security Decision Patterns
+└── Security Capability Matrix
+
+
 ## Domain Coverage
 
 ### Domain 1 – Governance, Risk & Compliance

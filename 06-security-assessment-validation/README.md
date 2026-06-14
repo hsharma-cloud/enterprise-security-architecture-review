@@ -3,7 +3,9 @@
 Security Assessment & Validation focuses on evaluating the effectiveness of security controls, verifying compliance with organizational requirements, identifying weaknesses, and providing assurance that security objectives are being achieved.
 
 This capability encompasses security testing, vulnerability assessments, penetration testing, audits, compliance validation, security metrics, and assurance activities.
+## Capability Reference Map
 
+![Security Assessment & Validation](../images/security-assessment-validation-reference.png)
 ---
 
 # Why This Capability Matters

@@ -1,5 +1,13 @@
+
 # Enterprise Security Architecture Review Guide
 
+A comprehensive security architecture reference covering governance, risk management, information protection, security engineering, network security, identity and access security, security operations, security assessment, and secure software development.
+
+![Enterprise Security Architecture](images/master-security-architecture-map.png)
+
+## Overview
+
+Enterprise security is built upon interconnected domains...
 A comprehensive security architecture reference covering governance, risk management, information protection, security engineering, network security, identity and access security, security operations, security assessment, and secure software development.
 
 This repository is organized into eight core security domains and is designed to provide structured coverage of enterprise security concepts, architectural principles, operational practices, and governance frameworks.

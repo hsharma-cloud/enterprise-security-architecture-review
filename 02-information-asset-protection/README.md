@@ -51,7 +51,7 @@ Destruction
 
 ---
 
-# Domain Coverage
+# Cabability Coverage
 
 This domain includes the following major areas:
 

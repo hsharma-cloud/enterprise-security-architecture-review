@@ -29,24 +29,6 @@ The content is organized around security capabilities that support the design, i
 
 ---
 
-## Repository Structure
-
-Enterprise Security Architecture Review Guide
-
-├── Governance, Risk & Compliance
-├── Information & Asset Protection
-├── Security Architecture & Engineering
-├── Network & Infrastructure Security
-├── Identity & Access Security
-├── Security Assessment & Validation
-├── Security Operations & Resilience
-└── Secure Application & Software Security
-
-Supporting References
-
-├── Security Architecture Patterns
-├── Security Decision Patterns
-└── Security Capability Matrix
 
 ---
 

@@ -2,11 +2,13 @@
 
 Governance, Risk & Compliance (GRC) provides the strategic foundation for enterprise security programs. It establishes how organizations align security objectives with business goals, manage risk, satisfy legal and regulatory obligations, and create sustainable security practices.
 
-This domain focuses on leadership, governance, risk management, compliance, business continuity, personnel security, and organizational security culture.
+This capability focuses on leadership, governance, risk management, compliance, business continuity, personnel security, and organizational security culture.
 
----
+## Capability Reference Map
 
-# Why This Domain Matters
+![Governance, Risk & Compliance](../images/governance-risk-compliance-reference.png)
+
+# Why This Capability Matters
 
 Technology alone does not create security.
 

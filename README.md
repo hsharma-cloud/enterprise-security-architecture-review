@@ -5,6 +5,19 @@ A comprehensive security architecture reference covering governance, risk manage
 
 ![Enterprise Security Architecture](images/master-security-architecture-map.png)
 
+## Security Domains
+
+| Domain                                                                             | Description                                                                                                      |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [Governance, Risk & Compliance](01-governance-risk-compliance/)                    | Governance, risk management, compliance, business continuity, personnel security, and security awareness.        |
+| [Information & Asset Protection](02-information-asset-protection/)                 | Information classification, asset management, data lifecycle management, retention, and data protection.         |
+| [Security Architecture & Engineering](03-security-architecture-engineering/)       | Secure design principles, security models, cryptography, system architecture, and engineering.                   |
+| [Network & Infrastructure Security](04-network-infrastructure-security/)           | Network architecture, segmentation, secure communications, cloud networking, and infrastructure protection.      |
+| [Identity & Access Security](05-identity-access-security/)                         | Authentication, authorization, federation, identity lifecycle management, and access governance.                 |
+| [Security Assessment & Validation](06-security-assessment-validation/)             | Security testing, vulnerability assessment, auditing, assurance, and compliance validation.                      |
+| [Security Operations & Resilience](07-security-operations-resilience/)             | Monitoring, incident response, digital forensics, disaster recovery, business continuity, and resilience.        |
+| [Secure Application & Software Security](08-secure-application-software-security/) | Secure software development, secure coding, DevSecOps, application security, and software supply chain security. |
+
 ## Overview
 
 Enterprise security is built upon interconnected domains...
